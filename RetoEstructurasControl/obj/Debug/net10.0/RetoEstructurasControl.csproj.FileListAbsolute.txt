@@ -1,0 +1,15 @@
+/workspaces/Reto-Estructuras-de-Control-Iterativo-en-C-/RetoEstructurasControl/bin/Debug/net10.0/RetoEstructurasControl
+/workspaces/Reto-Estructuras-de-Control-Iterativo-en-C-/RetoEstructurasControl/bin/Debug/net10.0/RetoEstructurasControl.deps.json
+/workspaces/Reto-Estructuras-de-Control-Iterativo-en-C-/RetoEstructurasControl/bin/Debug/net10.0/RetoEstructurasControl.runtimeconfig.json
+/workspaces/Reto-Estructuras-de-Control-Iterativo-en-C-/RetoEstructurasControl/bin/Debug/net10.0/RetoEstructurasControl.dll
+/workspaces/Reto-Estructuras-de-Control-Iterativo-en-C-/RetoEstructurasControl/bin/Debug/net10.0/RetoEstructurasControl.pdb
+/workspaces/Reto-Estructuras-de-Control-Iterativo-en-C-/RetoEstructurasControl/obj/Debug/net10.0/RetoEstructurasControl.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Reto-Estructuras-de-Control-Iterativo-en-C-/RetoEstructurasControl/obj/Debug/net10.0/RetoEstructurasControl.AssemblyInfoInputs.cache
+/workspaces/Reto-Estructuras-de-Control-Iterativo-en-C-/RetoEstructurasControl/obj/Debug/net10.0/RetoEstructurasControl.AssemblyInfo.cs
+/workspaces/Reto-Estructuras-de-Control-Iterativo-en-C-/RetoEstructurasControl/obj/Debug/net10.0/RetoEstructurasControl.csproj.CoreCompileInputs.cache
+/workspaces/Reto-Estructuras-de-Control-Iterativo-en-C-/RetoEstructurasControl/obj/Debug/net10.0/RetoEstructurasControl.sourcelink.json
+/workspaces/Reto-Estructuras-de-Control-Iterativo-en-C-/RetoEstructurasControl/obj/Debug/net10.0/RetoEstructurasControl.dll
+/workspaces/Reto-Estructuras-de-Control-Iterativo-en-C-/RetoEstructurasControl/obj/Debug/net10.0/refint/RetoEstructurasControl.dll
+/workspaces/Reto-Estructuras-de-Control-Iterativo-en-C-/RetoEstructurasControl/obj/Debug/net10.0/RetoEstructurasControl.pdb
+/workspaces/Reto-Estructuras-de-Control-Iterativo-en-C-/RetoEstructurasControl/obj/Debug/net10.0/RetoEstructurasControl.genruntimeconfig.cache
+/workspaces/Reto-Estructuras-de-Control-Iterativo-en-C-/RetoEstructurasControl/obj/Debug/net10.0/ref/RetoEstructurasControl.dll
